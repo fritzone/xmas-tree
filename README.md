@@ -4,7 +4,7 @@
 
 At first glance, rendering a richly decorated Christmas tree inside a text terminal might seem like a novelty exercise. In reality, the program presented here is a compact demonstration of several powerful ideas: procedural geometry, pixel abstraction, sub-cell rendering, and Unicode-aware ANSI graphics. Rather than printing precomposed ASCII art, the program *computes* each visible element dynamically, producing a shaded, ornamented tree that feels surprisingly dimensional despite the severe constraints of a terminal environment.
 
-![image-20260104134017222](/home/fld/work/p/xmas-tree/tree.png)This quick scribbling explains how the program works, from its data model to its rendering pipeline.
+![image-20260104134017222](tree.png)This quick scribbling explains how the program works, from its data model to its rendering pipeline.
 
 ## A Pixel-Based Mental Model
 
